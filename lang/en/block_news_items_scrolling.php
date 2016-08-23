@@ -24,4 +24,5 @@
  */
 
 $string['pluginname'] = 'Latest news (scrolling)';
+$string['news_items_scrolling:myaddinstance'] = 'My Addinstance'; 
 
